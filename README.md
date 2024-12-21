@@ -6,11 +6,11 @@
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=abhipsathakur&label=Profile%20views&color=0e75b6&style=flat" alt="abhipsathakur" />
 </p>
-- 🌱 I’m currently learning **Advanced Java, DSA Using JAVA**
+- 🌱 I’m currently learning **DSA Using JAVA**
 
 - 👨‍💻 All of my projects are available at [LinkedIn](LinkedIn)
 
-- 💬 Ask me about **PHP, CORE JAVA, HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **PHP, CORE JAVA, HTML, CSS, JAVASCRIPT, Advanced Java**
 
 - 📫 How to reach me **abhipsathakur933@gmail.com**
 
